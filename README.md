@@ -9,6 +9,8 @@ Building scalable web applications, AI-powered tools & real-time systems.
 </p>
 
 <p align="center">
+  <a href="https://vansh-shah-portfolio-website.vercel.app">Portfolio</a>
+  •
   <a href="https://linkedin.com/in/vansh-shah-48a8492b3">LinkedIn</a>
   •
   <a href="https://github.com/Vanshshah13">GitHub</a>
@@ -24,6 +26,19 @@ My primary focus is **Next.js, TypeScript, React, Node.js, Express.js, and Postg
 
 I'm particularly interested in **backend development, API design, database architecture, real-time communication, and AI integration**. I continuously explore new technologies and best practices to improve the way I build and ship software.
 
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://vansh-shah-portfolio-website.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, technical skills, experience, and development journey.
+</p>
 
 ---
 
@@ -137,6 +152,9 @@ AI-Powered Applications
 ## 🤝 Let's Connect
 
 <p>
+  <a href="https://vansh-shah-portfolio-website.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/vansh-shah-48a8492b3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
