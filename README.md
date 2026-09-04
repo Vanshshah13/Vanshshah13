@@ -18,14 +18,12 @@ Building scalable web applications, AI-powered tools & real-time systems.
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer who enjoys building modern, scalable and user-focused web applications.
+I'm a **Full-Stack Developer** focused on building modern, scalable, and production-ready web applications. I enjoy turning ideas into practical products with clean interfaces, reliable backend systems, and thoughtful architecture.
 
-* 🚀 Building full-stack applications with **Next.js & Node.js**
-* 🤖 Exploring **AI-powered developer tools**
-* ⚡ Building **real-time applications** with Socket.IO
-* 🗄️ Working with **PostgreSQL & Neon**
-* 🧩 Interested in backend architecture, APIs and scalable systems
-* 📚 Continuously learning and improving my development skills
+My primary focus is **Next.js, TypeScript, React, Node.js, Express.js, and PostgreSQL**, with experience building **AI-powered applications and real-time systems**.
+
+I'm particularly interested in **backend development, API design, database architecture, real-time communication, and AI integration**. I continuously explore new technologies and best practices to improve the way I build and ship software.
+
 
 ---
 
