@@ -1,16 +1,173 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vansh Shah</h1>
 
-<!--
-**Vanshshah13/Vanshshah13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full-Stack Developer | Next.js | TypeScript | Node.js
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications, AI-powered tools & real-time systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="www.linkedin.com/in/vansh-shah-48a8492b3">LinkedIn</a>
+  •
+  <a href="https://github.com/Vanshshah13">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vanshshah13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full-Stack Developer who enjoys building modern, scalable and user-focused web applications.
+
+* 🚀 Building full-stack applications with **Next.js & Node.js**
+* 🤖 Exploring **AI-powered developer tools**
+* ⚡ Building **real-time applications** with Socket.IO
+* 🗄️ Working with **PostgreSQL & Neon**
+* 🧩 Interested in backend architecture, APIs and scalable systems
+* 📚 Continuously learning and improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### AI & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 CodeLens — AI Code Review Platform
+
+An AI-powered code review platform that analyzes source code and provides structured feedback on:
+
+* Code quality
+* Security vulnerabilities
+* Performance
+* Best practices
+* Optimization suggestions
+
+**Tech Stack:** Next.js · TypeScript · PostgreSQL · Neon · Clerk · Google Gemini API
+
+🔗 **Live Demo:** [CodeLens](https://codelens-code-review.vercel.app)
+
+---
+
+### 💬 Real-Time Chat Application
+
+A real-time chat application focused on instant communication and a responsive user experience.
+
+**Key Features:**
+
+* Real-time messaging
+* User authentication
+* Online/offline presence
+* Responsive UI
+* Socket-based communication
+
+**Tech Stack:** Next.js · TypeScript · Node.js · Socket.IO · PostgreSQL
+
+---
+
+### 📝 Blog Website
+
+A modern blog platform for creating, managing and reading articles through a clean and responsive interface.
+
+**Key Features:**
+
+* Create and manage posts
+* Rich content experience
+* User authentication
+* Responsive design
+* Blog post management
+
+**Tech Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Tailwind CSS
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshshah13&show_icons=true&hide_border=true&count_private=true" alt="Vansh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshshah13&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development
+        ↓
+Next.js + TypeScript
+        ↓
+Node.js + Express
+        ↓
+PostgreSQL + Neon
+        ↓
+Real-Time Systems
+        ↓
+AI-Powered Applications
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vanshshah13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
