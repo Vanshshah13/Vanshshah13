@@ -14,10 +14,6 @@ Building scalable web applications, AI-powered tools & real-time systems.
   <a href="https://github.com/Vanshshah13">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vanshshah13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -119,18 +115,6 @@ A modern blog platform for creating, managing and reading articles through a cle
 * Blog post management
 
 **Tech Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Tailwind CSS
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshshah13&show_icons=true&hide_border=true&count_private=true" alt="Vansh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshshah13&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
